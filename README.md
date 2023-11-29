@@ -1,4 +1,7 @@
 # Leontieff-Model-Reproducible-Result
+The link to the data: [Click here to download](http://stats.oecd.org/wbos/fileview2.aspx?IDFile=59a3d7f2-3f23-40d5-95ca-48da84c0f861)
+Or go to the website [OECD Inter-Country Input-Output (ICIO) Tables](https://www.oecd.org/sti/ind/inter-country-input-output-tables.htm)
+
 **Context:**
 
 Economic data is often highly asymmetric. As a result, computational economics often has to place a focus on the tails of distributions rather than on the body.
