@@ -14,3 +14,7 @@ We will focus on the occurence of large and rare effects. Such effects can, for 
 2. What measures could be taken to make it reproducible, if that is not the case?
 3. Produce a reproducible result for the upper 1% quantile of the resulting effect of demand shocks by 0.3 (30%), 0.7 (70%) and 1.0 (100%) to individual
    random sectors in random countries on the world economy.
+
+**Output:**
+
+<img src="https://github.com/MohidulHaqueTushar/Leontieff-Model-Reproducible-Result/blob/main/Effect%20of%20different%20shock_sizes%20on%20upper%201%25%20quantile.png" alt="result" width="500"/>
